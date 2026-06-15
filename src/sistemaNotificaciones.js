@@ -1,6 +1,7 @@
 // src/sistemaNotificaciones.js
 // Código fuente mínimo del módulo M06 - Notificaciones y Comunicaciones (AgendaYA)
 // Basado en las historias de usuario US-M06-001 a US-M06-009 (TP2)
+// Prueba de Pull Request - CI pipeline AgendaYA
 
 const VEINTICUATRO_HORAS_EN_MS = 24 * 60 * 60 * 1000;
 
